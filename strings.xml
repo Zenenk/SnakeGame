@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SnakeGame</string>
+    <string name="left">left</string>
+    <string name="up">up</string>
+    <string name="down">down</string>
+    <string name="right">right</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="game_paused">Game paused</string>
+    <string name="game_over">Game over</string>
+    <string name="score">Score: </string>
+</resources>
